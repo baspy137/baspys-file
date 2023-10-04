@@ -1,0 +1,2 @@
+# baspys-file
+class work
